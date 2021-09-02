@@ -3,7 +3,6 @@ CACHE MANIFEST
 CACHE: 
 app2usb.bin
 backup.bin
-Cache.manifest
 disableupdates.bin
 dumper.bin
 enableupdates.bin
@@ -43,9 +42,9 @@ red124.bin
 restore.bin
 rifrenamer.bin
 todex.bin
-Toolbox.bin
+toolbox.bin
 utils.js
-webrte.bin
+webrte755.bin
 wolf755.html
 
 NETWORK: 
