@@ -3,6 +3,7 @@ CACHE MANIFEST
 CACHE: 
 app2usb.bin
 backup.bin
+bakexploit.js
 disableupdates.bin
 dumper.bin
 enableupdates.bin
@@ -22,7 +23,6 @@ gtava3.bin
 gtavl.bin
 hen213b.bin
 historyblocker.bin
-idu.bin
 index-755.html
 index.html
 int64.js
@@ -37,11 +37,11 @@ payload.bin
 preloader.js
 ps4.jpg
 ps4.js
+ps4debug.bin
 red113.bin
 red119.bin
 red124.bin
 restore.bin
-rifrenamer.bin
 todex.bin
 toolbox.bin
 utils.js
